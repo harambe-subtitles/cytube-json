@@ -4,14 +4,9 @@
   "live": false,
   "sources": [
     {
-      "url": "https://example.com/video1.mp4",
+      "url": "https://assets.frame.io/encode/590e3316-1793-4e94-8093-95923cf569aa/h264_1080_best.mp4?x-amz-meta-project_id=6b4a4337-f21e-40cf-8b54-b01949ad8d16",
       "contentType": "video/mp4",
       "quality": 1080
-    },
-    {
-      "url": "https://example.com/video2.mp4",
-      "contentType": "video/mp4",
-      "quality": 720
     }
   ],
   "textTracks": []
