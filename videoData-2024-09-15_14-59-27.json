@@ -1,0 +1,18 @@
+{
+  "title": "one s2e2",
+  "duration": 1431,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/326e0e96-6b5e-4075-81e9-37810ffb9a16/h264_1080_best.mp4?x-amz-meta-project_id=99556311-ad9a-4360-b176-50dbe1e8076f&x-amz-meta-request_id=F_VyrE2RJryIHvUTHEIL&x-amz-meta-project_id=99556311-ad9a-4360-b176-50dbe1e8076f&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=326e0e96-6b5e-4075-81e9-37810ffb9a16&Expires=1726488000&Signature=WqQ04Xiqz5lYjP6OaAGTX-v2cVoGuNe4TYq0iRtkr7Pj4jsTyDDtDkopGwjY9HTfH3V4jWWuKaDCLq8p3wg2FUgXQyroKym6VOYAKTR29PKpiQOCDlWcq4NrtyxQQ7YuAXL1qxd6ZuC06Hdh~UGzX4Ie0G-Gg5TGy82Lx3-Ag8fC3DZPc~WViAINWK1HHjQ5t79ze-kEFCiGGWdKudADhsDIw3i55xGRlgBqjZGYaW~4lRsfyQMeiQLGVtoUti0wBRETjqajhWDKvCBibVoG8WftHXBA13rfAQSoBPweQK3~PtWvgguj1crEoXi~felyohHFPCeg2AwMnY~It5S9zQ__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/326e0e96-6b5e-4075-81e9-37810ffb9a16/h264_720.mp4?x-amz-meta-project_id=99556311-ad9a-4360-b176-50dbe1e8076f&x-amz-meta-request_id=F_VyrE2RJryIHvUTHEIL&x-amz-meta-project_id=99556311-ad9a-4360-b176-50dbe1e8076f&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=326e0e96-6b5e-4075-81e9-37810ffb9a16&Expires=1726488000&Signature=XAxdOWkwlC5lQulyqLNnsZs6tz4JykwRKBOEgEhG07VQRudSZ~ObmlQOVBwVn8Iq92JEajjEDboyUdxHwaRaV8HJZTIasQFEPcn4~qdyQj0eob7Szrt9ayqKPV7W-wHgiW1ILck~RrtYlfXg00Z168e03RLyRkLiN~1zWpQBu24zVfiM2jqRvhtO73vfil84q-Ft47zlNb1mIKb9feLROxZ6dou~aPBd1uZZztIpYY8-lcOPjeS60RS43Z~fkTKb~ka3xEIQ8SimCtNtLXL67y743wEPDuyHeXP5Y5vczI9fJnMVldE9~W92~iYciXl3iSa4clm4XE5AZwv8upD4zg__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": []
+}
