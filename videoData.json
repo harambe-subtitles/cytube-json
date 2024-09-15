@@ -7,6 +7,16 @@
       "url": "https://assets.frame.io/encode/06290f85-c342-4831-8a33-bcb55150483e/h264_1080_best.mp4?x-amz-meta-project_id=a12be8f2-ebe2-4f50-b033-2f46fde82a47&x-amz-meta-request_id=F_Vcs-TkGvMiK20YkoKB&x-amz-meta-project_id=a12be8f2-ebe2-4f50-b033-2f46fde82a47&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=06290f85-c342-4831-8a33-bcb55150483e&Expires=1726444800&Signature=CuvJ77dUgGgmovkOrpJDcst8odQpsKsEAaMmsajhWHDMMijd3OOT68XanHVMOF5Sfh7975eiyv40vK~ngIEqRRxPInCpMO~XthRfMUoytUc6LIh3-MT5iKH6MB5MIeEk5RZcgQIUIx8JhE8iU4ypVsFCmsgt7tGbaXCjO3CAt8tmA8JF7f07idYzK1YIMMcR-EqFVu-AuW9DYPj~eFW5uGfZ2CYy7KHZVWEcuNdAK6GWnr68wuV8ZZG-SgFY4DITNQHzuvnze2mPpwuh7hSRyz4NwoUaZO1pbI9zazjl8oSrFLgx0OM~IuD36B5Mi4pHQZTLbkbRfiAvRO8jLst8-g__&Key-Pair-Id=K1XW5DOJMY1ET9",
       "contentType": "video/mp4",
       "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/06290f85-c342-4831-8a33-bcb55150483e/h264_1080_best.mp4?x-amz-meta-project_id=a12be8f2-ebe2-4f50-b033-2f46fde82a47&x-amz-meta-request_id=F_Vcs-TkGvMiK20YkoKB&x-amz-meta-project_id=a12be8f2-ebe2-4f50-b033-2f46fde82a47&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=06290f85-c342-4831-8a33-bcb55150483e&Expires=1726444800&Signature=CuvJ77dUgGgmovkOrpJDcst8odQpsKsEAaMmsajhWHDMMijd3OOT68XanHVMOF5Sfh7975eiyv40vK~ngIEqRRxPInCpMO~XthRfMUoytUc6LIh3-MT5iKH6MB5MIeEk5RZcgQIUIx8JhE8iU4ypVsFCmsgt7tGbaXCjO3CAt8tmA8JF7f07idYzK1YIMMcR-EqFVu-AuW9DYPj~eFW5uGfZ2CYy7KHZVWEcuNdAK6GWnr68wuV8ZZG-SgFY4DITNQHzuvnze2mPpwuh7hSRyz4NwoUaZO1pbI9zazjl8oSrFLgx0OM~IuD36B5Mi4pHQZTLbkbRfiAvRO8jLst8-g__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    },
+    {
+      "url": "https://assets.frame.io/encode/06290f85-c342-4831-8a33-bcb55150483e/h264_1080_best.mp4?x-amz-meta-project_id=a12be8f2-ebe2-4f50-b033-2f46fde82a47&x-amz-meta-request_id=F_Vcs-TkGvMiK20YkoKB&x-amz-meta-project_id=a12be8f2-ebe2-4f50-b033-2f46fde82a47&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=06290f85-c342-4831-8a33-bcb55150483e&Expires=1726444800&Signature=CuvJ77dUgGgmovkOrpJDcst8odQpsKsEAaMmsajhWHDMMijd3OOT68XanHVMOF5Sfh7975eiyv40vK~ngIEqRRxPInCpMO~XthRfMUoytUc6LIh3-MT5iKH6MB5MIeEk5RZcgQIUIx8JhE8iU4ypVsFCmsgt7tGbaXCjO3CAt8tmA8JF7f07idYzK1YIMMcR-EqFVu-AuW9DYPj~eFW5uGfZ2CYy7KHZVWEcuNdAK6GWnr68wuV8ZZG-SgFY4DITNQHzuvnze2mPpwuh7hSRyz4NwoUaZO1pbI9zazjl8oSrFLgx0OM~IuD36B5Mi4pHQZTLbkbRfiAvRO8jLst8-g__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 540
     }
   ],
   "textTracks": []
