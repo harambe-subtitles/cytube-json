@@ -1,10 +1,10 @@
 {
-  "title": "Outlaw 2024",
-  "duration": "238409284",
+  "title": "Some Video Title",
+  "duration": "5967",
   "live": false,
   "sources": [
     {
-      "url": "https://assets.frame.io/encode/590e3316-1793-4e94-8093-95923cf569aa/h264_1080_best.mp4?x-amz-meta-project_id=6b4a4337-f21e-40cf-8b54-b01949ad8d16",
+      "url": "https://assets.frame.io/encode/06290f85-c342-4831-8a33-bcb55150483e/h264_1080_best.mp4?x-amz-meta-project_id=a12be8f2-ebe2-4f50-b033-2f46fde82a47",
       "contentType": "video/mp4",
       "quality": 1080
     }
