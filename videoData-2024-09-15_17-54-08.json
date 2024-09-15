@@ -1,0 +1,23 @@
+{
+  "title": "Ostry poker w małym Tokio (1991) (zmiencie jakosc na wieksza)",
+  "duration": 4702,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/b8ff6a91-493f-4948-b259-2f1e0427bb40/h264_1080_best.mp4?x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-request_id=F_V8XXzGy23d4IAdjaaF&x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=b8ff6a91-493f-4948-b259-2f1e0427bb40&Expires=1726488000&Signature=lytZKDU2bqAKkeEmA0-nP4ck4Nhux6MAfWY5pSVmoudavCWvOtDVYabbaqlB45k9kT5IcuUb3UDdPKha6o~wZXxf8BWBllQB~a8Vqfb51jJriaNTCj47IWLFP9r8D8mxJr8TqnYZd1T0369A~xnPgkXD6iCgT~H8UUFNrY~rSfaqAliFJQt1eMEkhd55CzwXbCsj2-PavBDBY75RXUDxN7rLRPQZVahkVVPHDNQBiulB0tKvqzfG52NpugzluXq3oG9bs9oTGd5A0KqET8VI~IrUVILd7J~U2vlT5W89qXt3mdYsbTudD6hNiqkgsHDgnXP9KalOCBZrV68L1oJr-g__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/b8ff6a91-493f-4948-b259-2f1e0427bb40/h264_720.mp4?x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-request_id=F_V8XXzGy23d4IAdjaaF&x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=b8ff6a91-493f-4948-b259-2f1e0427bb40&Expires=1726488000&Signature=py-7-GWN5k9j85mxaRZ1Qt0D6XDWlCsfQAKkmfz3x~pE9rK3jBnQbZ6PHhHnx4h~SPkSJn-rXElylkPqBHYx2mE0d4eKZ5MeJuyHZbVWV0RJAjyL7IWSF1sWcEtYatp6GOZvJYkd4KDO2r1nVvDyBkPmOcE7htwke5NRm~OeDUkFdLC2BZ1-eWS1CMAjMAdUnxzqUvhbw8dmeLW8mfpC0u54juDCUJ-eGBWecc-CRypcGhfuLBmy7PSd0s-pLikkAq9BdMxGHI-rAzmC~CPOLZDGkDlNY-fm-o8rsw9PuNbK0qUml9sFyjZzTZDQIRidD492WUZ-5h3doEb-1eQwwg__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    },
+    {
+      "url": "https://assets.frame.io/encode/b8ff6a91-493f-4948-b259-2f1e0427bb40/h264_540.mp4?x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-request_id=F_V8XXzGy23d4IAdjaaF&x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=b8ff6a91-493f-4948-b259-2f1e0427bb40&Expires=1726488000&Signature=nFhL2-4awLx~mzpyvsaQB2Um1VJE4TxoXDAt2gItwfWbQdqlMyQSN8Gb6XcwPCR1mUQ7K-3Oyc1zxX3h1Pl3rd5vhV8bQ6~vvFrHH2es6qlqXME6ehVz03C6yP5OxpYhxyFCW41dkUfmXmaU08JtxE6vBUmytrkqeLuBZ9QcDas~2AvT6YRoFEM499xBeUsnK2CTtug38gb6kDNdfRYpioAT6R8r0kM7lLewaTHqLZ2UKlsytkO~buqSYAGxYC1OYdr~RVvG3edCSIkIw8EOzs2Wau1kcige5foQgcsqXnc16lMnq4~9rVkWTNVmjf2qos1hKChy2UuPOcB5Fnnu9Q__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 540
+    }
+  ],
+  "textTracks": []
+}
