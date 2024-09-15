@@ -1,0 +1,23 @@
+{
+  "title": "one s2e1",
+  "duration": 1432,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/0109a9ba-abfc-4cb7-9bdb-f940d9a5850a/h264_1080_best.mp4?x-amz-meta-project_id=99556311-ad9a-4360-b176-50dbe1e8076f&x-amz-meta-request_id=F_VyrE2RJryIHvUTHEIL&x-amz-meta-project_id=99556311-ad9a-4360-b176-50dbe1e8076f&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=0109a9ba-abfc-4cb7-9bdb-f940d9a5850a&Expires=1726488000&Signature=pWnX8aNB1QNB5M3ZRaEaEUK~BS1acaVlSLhbjsGi35dCNp12~SV10cwu~CmtaciTiRlrfOgJtbQkOBsJx99N0Z6bWTw1W8IRUQKriVZfThLFnFG6ZR6RHfs3-RHsbhRO1D~kfKGm6Zcfr660rLEYXyhvaLX9W8S8r1k1Dm-8bYOa5ARz6myw2JvVzMrjG5a8rJp7FZ0tltI40NBoPavu-xXyWYorxf8~ADDxqWV5mq7lCQdm5XwlC0G1dFAkh6Feep8zIrYAmkK2ygsG6AW3mgKVoDlXbpVVZIWaTOT3Abqe48iW77PZDu1hJXH5gZI-XAn35z-LQbSsb~lCvtAE4g__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/0109a9ba-abfc-4cb7-9bdb-f940d9a5850a/h264_720.mp4?x-amz-meta-project_id=99556311-ad9a-4360-b176-50dbe1e8076f&x-amz-meta-request_id=F_VyrE2RJryIHvUTHEIL&x-amz-meta-project_id=99556311-ad9a-4360-b176-50dbe1e8076f&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=0109a9ba-abfc-4cb7-9bdb-f940d9a5850a&Expires=1726488000&Signature=OXCNR9w8V-DrV9AlY-w~sUiUJkmxwsmyRW5vNzlRxGuSpEsBDYZF-9JISmQMJgnqVvGMOHuC~YE0bd7HIDaFl-p582CxpqVGsO4svGTup9HKsMktZnoVNWGek3mXPEoYB4Jw6cIVoTE~SFpMfN1UBOhHrp7PPRV4nAwp0fUlkuEeQaetfALgzvcgahmSnlfjz9GkK5qp5QF4iXN5iBPhEniysjkCSr4qmpi9eXUEyFxBzfgXp7KpcJjztZGRtb3gg6T0ouDXV-9GV5j438JcNs3fcl7sOVMI5OYNQXp-jxjQTaRaipnxE56sAnUYVc3HEbOhcgqsZeUWtlDzLnHHmQ__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    },
+    {
+      "url": "https://assets.frame.io/encode/0109a9ba-abfc-4cb7-9bdb-f940d9a5850a/h264_540.mp4?x-amz-meta-project_id=99556311-ad9a-4360-b176-50dbe1e8076f&x-amz-meta-request_id=F_VyrE2RJryIHvUTHEIL&x-amz-meta-project_id=99556311-ad9a-4360-b176-50dbe1e8076f&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=0109a9ba-abfc-4cb7-9bdb-f940d9a5850a&Expires=1726488000&Signature=YwjH7dG~aoDycwWhKN3CCls~GOkcHRa7GlLxMKTUdaztXlCWwbvKnkHvRnvIgTVhJ3gYvWAHrBnF33MDTaakr0ia-z5Chn~u-Nk4zJhdAwYvsfERr3TPEHBG2ol39r~5OI1Z-XFuKB7YuN3ZT2GQ1cbL9Ek-gub8Yj57MvsMPfl0mG1UKp6U2Lk-aJhUlosPiowNmTofBUtlffFtha2P7CDLpjqkUENVjq20SXDz9xw22qE~omxsFEfrbD~0GHRz48BtLDjHSTSnBTRDdkUkSt-cblKcHz-xA1cTohF7ivOB-lCsznNk6xoJ4w6t6MjyiNSa4yy-LhT930JyEMw9BA__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 540
+    }
+  ],
+  "textTracks": []
+}
