@@ -1,0 +1,23 @@
+{
+  "title": "Anomalia (2014)  (zmiencie jakosc na wieksza)",
+  "duration": 5799,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/a9b4fe04-5bb7-4e1c-996f-08b3a3217e4f/h264_1080_best.mp4?x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-request_id=F_V8XXzGy23d4IAdjaaF&x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=a9b4fe04-5bb7-4e1c-996f-08b3a3217e4f&Expires=1726488000&Signature=UDm3vY-xLmTnUnmDhS2A-hUB-8KTCfrBOBcNMjo-5Cc6MK9LXzPCer7Mlig8bgUNpWyUj2PotK~ZUegrn7LvS~sSgWF5QS~YGQLbkxYhtWJElIP4B6N92fFnZrmZ9ZB9j49grAESnpFU-yl8dxb-bRPFAzwKN7JGBX47Xob8U-TiT7oAL6bNktpBwzl6MxkJ-dkPlypwE4M9cNp8z0LauDyzVuhhhhZ5IquXxLbddh~oNQXh~7qTOuZX~4sh6rq4~1gpLv-sGFXm3FKTBTXkSHlxtrov8ydo-wTw3P2-OemSKtmVJx6lG7Ag-jMEGTl6INmPczprcoFavuddHgx3AA__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/a9b4fe04-5bb7-4e1c-996f-08b3a3217e4f/h264_720.mp4?x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-request_id=F_V8XXzGy23d4IAdjaaF&x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=a9b4fe04-5bb7-4e1c-996f-08b3a3217e4f&Expires=1726488000&Signature=CIpWcryPwOARQAxPPlGun0cO4Xd7mWpnCYoTzPsazLsV1lOf3yCcznpRKWkSsCJ7H-AexGdYwVs18x47fAirVmInsmuxhVWk19-7L-JaULJJl1XELpaIVMtIO6bnz9S6Woz0G-CZpxS1oxSVIl56bYD4jzgXAeozv7xFW9AoIehtqlrABEbn29ylcrypkT48eXTKAtaZ2bgfMIpkm36j1kdYZI3k10d6Vhrb~ILEWtUW7qWIZY9GXkM7wxjzTsj48hV4ZSp-idIdVIm7yeAX1IT58vPoaKOXJ~b2aIv4644qbjfUKQOQi3hZhVPiRgbyjvWAebemWWM3zyX507roPQ__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    },
+    {
+      "url": "https://assets.frame.io/encode/a9b4fe04-5bb7-4e1c-996f-08b3a3217e4f/h264_540.mp4?x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-request_id=F_V8XXzGy23d4IAdjaaF&x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=a9b4fe04-5bb7-4e1c-996f-08b3a3217e4f&Expires=1726488000&Signature=Ia2AEV4elMzn6x46s86fHWWDDNcAX94LskC2iR2E85xH11pL5PW8AFObK0cdrmMP30Ql-Uj-e4UzLMns2-QzPxSqiGuhHfKCrC~2xsx9x7TqZmhjHxmYLvEGU1CLnNJHKWYY-9rYNC6glOze6tYcoloiTBHa5no587lszD1GZrGfShicG28~IpxB7yD4~B51jjkwZOjw4ddwz~xV3QMJGPXgxXisgJ9o1iMUBCPigSmRUBhRJUezId5TY6Mh8~a9TsnFg3VNmR6WJWQFY8iijum-fvr02sb4wBob7T~-tDEk7fYssPCBHSaQTFh-B2PO5qNwyE-CbaayAiiiU8GWdA__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 540
+    }
+  ],
+  "textTracks": []
+}
