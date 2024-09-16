@@ -1,0 +1,23 @@
+{
+  "title": "Kung Fu Hustle",
+  "duration": 5967,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/06290f85-c342-4831-8a33-bcb55150483e/h264_1080_best.mp4?x-amz-meta-project_id=a12be8f2-ebe2-4f50-b033-2f46fde82a47&x-amz-meta-request_id=F_XV-txpXLOBtbkEC7OP&x-amz-meta-project_id=a12be8f2-ebe2-4f50-b033-2f46fde82a47&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=06290f85-c342-4831-8a33-bcb55150483e&Expires=1726574400&Signature=BCsMn-uas3ovyTb8V9c630HvYfjH6xqy8IcJiW2BBwATAct3toXNTXSboydLgSpkzNLkX6hdtE8oudf7H7WWGA2Efz4qWwzEgFbRu8Zubo36DyoveHfMe693VfOvs0hVcPFPOT8XqAsKeMJpAGx~7q0zBdxMO~t97wH0JWcrkK6hmUhDrfLHRGq~twaz4~quyI3LrdGaMfH9iutqtWPRk64WCm5AhxwIjN50egqSEnKGA3r5PB2-XyDi4GW4wloL9zHyhBBB5LMr7QbiFYNy2vSCbooVvxwgV3M5~oc9JO0m1FsENVb63C~6lKAkwynqwyoX1P1SA2vIaxfJDkk1Sg__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/06290f85-c342-4831-8a33-bcb55150483e/h264_720.mp4?x-amz-meta-project_id=a12be8f2-ebe2-4f50-b033-2f46fde82a47&x-amz-meta-request_id=F_XV-txpXLOBtbkEC7OP&x-amz-meta-project_id=a12be8f2-ebe2-4f50-b033-2f46fde82a47&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=06290f85-c342-4831-8a33-bcb55150483e&Expires=1726574400&Signature=OfJHqjTYnHe1FANUauOGUqxDYlBJ9bQUtFJjVZZUYyxRWA~2zdSO7OGlQGtnA9AfLs6vTyUJD1UCX~BnWdSCSFHdYkOBHyP5GBUXGL-wNIVCNfbHfo4XwQege8cpV5T1mFL8FFArXkuVfgmhzb2a7mxLvKYmaH6pi8AKUqckXdxTjLY~vmf5MVN1IgvFiyGftoKu9h3RASxUUrYMyxYktjaCwgRVhW1Jli415HgzGJoKOBs4t3zx-O8nIk6UwMYQR6XRUs~w8Z4bICXwYrEub4gIVA6lNvmFiAedUMLt46ZpiR-IjIjOo7ly0J-mWiv21~sZbo5bkrr6bhFwfutp9g__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    },
+    {
+      "url": "https://assets.frame.io/encode/06290f85-c342-4831-8a33-bcb55150483e/h264_540.mp4?x-amz-meta-project_id=a12be8f2-ebe2-4f50-b033-2f46fde82a47&x-amz-meta-request_id=F_XV-txpXLOBtbkEC7OP&x-amz-meta-project_id=a12be8f2-ebe2-4f50-b033-2f46fde82a47&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=06290f85-c342-4831-8a33-bcb55150483e&Expires=1726574400&Signature=b2PbHorzyOdhWRv9ucNGae0X14YicYSZkhPSPsX3ZHpn3aBUd66xK5wVTBtBEjSuaVwqSbSOvnwKXkdLXv1PyqhPjq2tspEFcGmmo8cLv6uMSEh73nmdXr-DoYwIlxRwnpSfr1Nd~Agbo3OxXZQri4o4qSDjYesmM-RFF0HlG8W6EgiYX6D4D5TeTicuPgI~nmxP~4BAcg93mbkw5vq1eeiYBJsg96oU3v3ui4p96NZBuQnis5yfRr3N0If569k~V-nEbUHvr10JWb7wZ5V8W6vnAAchZV15YzB6ExwIQs7-t20A1PdJtUjW4-GEdjIMl1LRZc2sCf2J7qI-4ZWr4g__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 540
+    }
+  ],
+  "textTracks": []
+}
