@@ -1,0 +1,18 @@
+{
+  "title": "baki s1e2 (pierwszy link to lektor ai, drugi napisy ta sama jakosc)",
+  "duration": 1472,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/2b11792f-b204-46e2-8e11-97dc5b22ba73/h264_1080_best.mp4?x-amz-meta-project_id=60551f0b-8f2a-4e0f-8c31-a6e439adf4ff&x-amz-meta-request_id=F_YOwv4HShmgmAkAC1rJ&x-amz-meta-project_id=60551f0b-8f2a-4e0f-8c31-a6e439adf4ff&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=2b11792f-b204-46e2-8e11-97dc5b22ba73&Expires=1726660800&Signature=jrbDA5W1E1ae6IYBP~1MGfxDpDTuwOnfVrcJuhd2HpqgduYQydfAXPhhHTSfLujdNqyT8-PjhAiLk2OCgaU-7YAFsJzBQKk23fk3xYY8irEnq1MvL0bEljynzL50N034TbM7pog293gtPrsLnn3nM7KOlfMu-wXZs5P7c5qr5M2~WhKeFOB5liU-Av4xa9iodmQ8BhvWTyC3bVRDR0~7bSUhqyIJwPZYQ0gYuAGCT5u31Z~NZbtOe1aSS2UxqAX88NRD5Vi-3zgliyaXkGdDhkxw-g9j6V3CAyLTH3s7cTmQYR44xiY5QDBd4I2GXGCxoOMy1ZAIsOWxWNPLQX5Htg__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/eecd77be-4d47-450f-893e-cea222fc9370/h264_1080_best.mp4?x-amz-meta-project_id=60551f0b-8f2a-4e0f-8c31-a6e439adf4ff&x-amz-meta-request_id=F_YOwv4HShmgmAkAC1rJ&x-amz-meta-project_id=60551f0b-8f2a-4e0f-8c31-a6e439adf4ff&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=eecd77be-4d47-450f-893e-cea222fc9370&Expires=1726660800&Signature=DQORfWC1AWaIByC~fH~qQIHU~LO5jOGAKSLgHHV2symxvl5T061NL25dG5PgYCrRZxUrfL1wn5tPNP2plwWi2zVg8M8Lh8LYrxbvS0bzF9t-dVGpQpNmYHgr5aq8ofbu7NyGfO-Sy36~B6UYEhYvV8Hmioo-EcAuBE4z-S2BeG~VM-ualFrI6zegLvQl7QTQyhLzqRjMHXfiMG8oZMhyNllmj0CFQFTdixMeMtMfUu9~eVwQV5FQRpjd3lRVKzlAC9rDNCVYU5q0iPIfUFzxjZxCpep9XjtH9gIfV99nKXXGmxRiMOXb6zRow9YZUe6hNuGhnKcbJqtewT7NVawQQQ__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": []
+}
