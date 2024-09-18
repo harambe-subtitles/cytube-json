@@ -1,0 +1,18 @@
+{
+  "title": "tulsa s2e1 720p to napisy 1080p",
+  "duration": 2543,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/6b52fc71-13fe-45b7-b0f3-3f79e5ddb3cb/h264_1080_best.mp4?x-amz-meta-project_id=2aa90c2f-fed2-4478-8272-c45d11dab232&x-amz-meta-request_id=F_ZigzvNB10DL-QRtzvH&x-amz-meta-project_id=2aa90c2f-fed2-4478-8272-c45d11dab232&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=6b52fc71-13fe-45b7-b0f3-3f79e5ddb3cb&Expires=1726747200&Signature=oFQrIwaw5f8fbBc73QGrro8r3fju09Moe~k~b27oyXIOAA0l~hquVdyW6aeN0wj~JJ~jHvOuFPr4rQQcQ22BmPBOspcV1i8zebCqjufvKMeWsHErWaKOvHfcXzfByr-rY41OwQJ0fzzIqQtVNMddcbQAtiy-fFliUIaaXcOqAbgmIGUUhQ-1nB3bNYHmDJmz4mO2avPujpJyz9C2CuHyxafIafKYaR4DRiZtY-xFael1hLfFD61oaV7haH1DDhHYx358VMm7YU6GSFx60cUKuCKwwKu9v9Vyz8Pu1b51FRHeLIdpZxG2Uy47R~Sk3jv4i5ypMPA0vW0a4yA9kPG3UA__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/833a66b0-b5d7-47ce-ac61-4bfe374c97fe/h264_1080_best.mp4?x-amz-meta-project_id=2aa90c2f-fed2-4478-8272-c45d11dab232&x-amz-meta-request_id=F_ZigzvNB10DL-QRtzvH&x-amz-meta-project_id=2aa90c2f-fed2-4478-8272-c45d11dab232&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=833a66b0-b5d7-47ce-ac61-4bfe374c97fe&Expires=1726747200&Signature=pYen-QwAuk63qis122PcGbrCs2fjXrD5wQZktrm05mOgAcrrzte2uESx0Cus0VWp3-dDs5JdN-8Lsp--oMqPPlxpTWKccAJL7Or~t~bPnlwiUE4OC-l5qesZyLPnpAttupS7ymk4tOg9mqwLXDgKvm7P-abKmiNFpXQP3AbMUcL6dQ8LPEhjxs1xFw~X~r~mK6jcm6KF2lcC70L4jikHEf9ekvaKFGOythgDxim1JiitEGZZ~8T0S8Gug-l3aaQcKIl0XgF8EP6QqWfbiasB54Djlnbqc6O4XIBb9q7WeDsixN-Vr2ZsqRfBgLgQ2nK10mpDr-m8vMjvD0JS3~enGw__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": []
+}
