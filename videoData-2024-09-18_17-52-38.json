@@ -1,0 +1,18 @@
+{
+  "title": "Wieczór kawalerski (2024) [Harambe guwno premiera]",
+  "duration": 5041,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/8dfc2515-b153-4d04-a67e-6f8f264aff71/h264_1080_best.mp4?x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-request_id=F_ZbGV-vBmGqxcIQsK3B&x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=8dfc2515-b153-4d04-a67e-6f8f264aff71&Expires=1726747200&Signature=LfezHx6DDuSx3Isx2rYV4YU34jfpsRjZGMrz4h4KuzqY6M1LnOvOM3lZNaz0bMe1DwXpq4JAXmq-9DAnfHg5j80boil-geUgWW8UkNOZpETYjqKxvRE-a6fYhPgUV3KHX0Q7FXpAGdzx0ja3f756sCEKdkZ1M6iuobSoR22ffw6I~xR7zpm-soMBG0yJ4h8kWoG5s5meRQwD0p9za6cuaTcZYFvRqtchTU-wz4x-ZaQbJIOGswiCF5HEv-u2D0RfNTeJlERUnkLJsYZfPpdyLblycgiRZ-AuDA~6qakebIKENOnus6BNvR5w6rB0Wxm8-KKysnOcYD7Lg1Xg~UUevg__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/8dfc2515-b153-4d04-a67e-6f8f264aff71/h264_720.mp4?x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-request_id=F_ZbGV-vBmGqxcIQsK3B&x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=8dfc2515-b153-4d04-a67e-6f8f264aff71&Expires=1726747200&Signature=PJVXu0u20gvIvhNBQIVfQFLAW81-0JnzUrf4GyUR8ZdAHA9x83QKczoMy9H1uIgeDtQProbwyAmGw58i88hI4D0jUweJBtF87hYJXiJX5AtfsANfcS1pQT4oC4NqB34D42l~SVS8k2zYPhxIMNv3DqCD445sAy3waAHEESpnTAZD8bO3eUI2Dn3gs9p5sWGcG13zCjbgICvY23Ina0MbgcBgy5WeMdCTGVQ7HndBmGQXrR9ene4wT0OFqVPMTVPm1r9qZO2iQDsUdWWRh6yMzfI-bRND10TSZBLGHxRg~LXWxR49bjaDth7wcImku5gSi4D8ouIubIvF1z6ywd-Uew__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": []
+}
