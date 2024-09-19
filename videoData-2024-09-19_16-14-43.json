@@ -1,0 +1,18 @@
+{
+  "title": "lotr s2e6 (720p to napi, 1080p to lektor)",
+  "duration": 3787,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/018c2bee-d3bf-405c-a53c-5946dd35d43d/h264_1080_best.mp4?x-amz-meta-project_id=e55744ce-cd2a-4d91-b815-203f9a0b6b94&x-amz-meta-request_id=F_axRsBqTbntMgoN5AwC&x-amz-meta-project_id=e55744ce-cd2a-4d91-b815-203f9a0b6b94&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=018c2bee-d3bf-405c-a53c-5946dd35d43d&Expires=1726833600&Signature=Pq2ozIRQiTYpjo9t6kPHW3ArI96tatDEHy7mv6wMv6enOlTUGDMH2F-SviqJZUlZzTJK4U-VUEyx~-hLZpdEOO1NuXvoRPHkN3aMIYvXdIR2XeuB-RbRFH-Dma3uKc-xp0Lva4Eetkel3Cpa~Sbi9zJOOpdFehUombrnK0-jwoJe2A6-7pX8wcemHmrFxtjLDzl0It~dcmLAZoN5OWsyeu1QhFbvZDnZxKP27BdSjloqw5jAweXGiZmLPdAJQoWUwUWRjIT3PFXv9vKHwETiqOtMJqCw5fcsP5vJJNGrHyX1mJuvC0opyMVtVeiFSYPK0PfkARg4iaV24e29o3yftA__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/463a1463-1b5c-4227-b6f0-e5c9d731e712/h264_1080_best.mp4?x-amz-meta-project_id=e55744ce-cd2a-4d91-b815-203f9a0b6b94&x-amz-meta-request_id=F_axRsBqTbntMgoN5AwC&x-amz-meta-project_id=e55744ce-cd2a-4d91-b815-203f9a0b6b94&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=463a1463-1b5c-4227-b6f0-e5c9d731e712&Expires=1726833600&Signature=DAV9h12UUMW6r6HGSJ0Ib4aoIluzUEZxRB3xox0C-oOSfo4Ar1rQ30vXX1TSCxaR~j89S8CNPLVrCeyb0a7cPolLpHhCPtJ-StxduMimV6WS76bx1MqmLYeOi6KC-0jAsn~zuBXHkfcZnKlrub9fZZ0qQKZ6RVJcbSlWsEi-y~xl91caspJvKnEG3iazo4YlJx0SDISkQoJ0zCOSDxS-3xyqrtRq2CqhBe-vQgjBC9VtkqNHBKG2mxf023-DROujdi4v60yxo3HK0JmEiTwnWGc8q0qlc038eBMcl8nJUoQ0xp595qh7Fncf0gk0-r3WHFXIvQZUy9lOXnVIKXo5uw__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": []
+}
