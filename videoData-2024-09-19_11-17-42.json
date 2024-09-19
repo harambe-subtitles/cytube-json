@@ -1,0 +1,31 @@
+{
+  "title": "sdfsfsfsdf",
+  "duration": 6233,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/cadcc14f-f18e-4fbc-a1d8-22b5f6d4df11/h264_1080_best.mp4?x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-request_id=F_ZsZIranO17XxETTqUJ&x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=cadcc14f-f18e-4fbc-a1d8-22b5f6d4df11&Expires=1726747200&Signature=CuMem~J-qMa91Zws4ptSL7E8Qn9oSZoenGvvDRq7GqIkdNdLE2~~KqShFD6ifLTnwc-BXGmW2ASpKHY~lGWw2QOH1K6Q2Wi2QZCs5HbB9kxPBbvoqdd1xFACTmqxWTavtwU9ws4w~nXkTRyp7QrX-Lu2wXuNrtQwmdAGJox3M4cy02iQXkDAMGCXAVM6ednAxBw3PA9-gjpvUoHWoDYHqgpT8iNseElT3bzDnOjQPo~u54okOlZZcxgJvgSpYRgkLRrS7ev8JgQlMLJ27fN0R-pVwZX0BODTYfA1aFkA2iG-ZPISWwqJ~ZjMXAupn-LgpKwkqObD8vHvhbUIsumW1w__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/cadcc14f-f18e-4fbc-a1d8-22b5f6d4df11/h264_1080_best.mp4?x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-request_id=F_ZsZIranO17XxETTqUJ&x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=cadcc14f-f18e-4fbc-a1d8-22b5f6d4df11&Expires=1726747200&Signature=CuMem~J-qMa91Zws4ptSL7E8Qn9oSZoenGvvDRq7GqIkdNdLE2~~KqShFD6ifLTnwc-BXGmW2ASpKHY~lGWw2QOH1K6Q2Wi2QZCs5HbB9kxPBbvoqdd1xFACTmqxWTavtwU9ws4w~nXkTRyp7QrX-Lu2wXuNrtQwmdAGJox3M4cy02iQXkDAMGCXAVM6ednAxBw3PA9-gjpvUoHWoDYHqgpT8iNseElT3bzDnOjQPo~u54okOlZZcxgJvgSpYRgkLRrS7ev8JgQlMLJ27fN0R-pVwZX0BODTYfA1aFkA2iG-ZPISWwqJ~ZjMXAupn-LgpKwkqObD8vHvhbUIsumW1w__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": [
+    {
+      "url": "https://raw.githubusercontent.com/harambe-subtitles/subtitles/refs/heads/main/Srpski.film.2010.1080p.BluRay.DD.5.1.x264-PTer.pl.vtt",
+      "contentType": "text/vtt",
+      "name": "asdad",
+      "default": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/harambe-subtitles/subtitles/refs/heads/main/Srpski.film.2010.1080p.BluRay.DD.5.1.x264-PTer (2).vtt",
+      "contentType": "text/vtt",
+      "name": "safsdfsdg",
+      "default": true
+    }
+  ]
+}
