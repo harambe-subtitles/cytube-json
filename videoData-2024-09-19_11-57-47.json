@@ -1,0 +1,20 @@
+{
+  "title": "AHA TEST",
+  "duration": 6233,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/cadcc14f-f18e-4fbc-a1d8-22b5f6d4df11/h264_1080_best.mp4?x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-request_id=F_ahb8_0q_8-dqwJL4VH&x-amz-meta-project_id=535b624a-e782-4d49-8ae4-de94e0186d07&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=cadcc14f-f18e-4fbc-a1d8-22b5f6d4df11&Expires=1726790400&Signature=bitgN4IXKAwuQu7Zbh6XMVh3vWEzGKYvx6a8mZbPOrbOfozhc4CcPIZ0XYC03VW0mfDpUsk-l4BArSso0yvWUH8OKOs2tFyFvD1VDYYGdMeI9hAWHQL6JCXLdqphaKtysahW27xY6N7LEind2gsc0iot9qc~hUjcOx3Wsfb9J~Zu74Kw1xVzvSKNj4D5e7o7QUUTlQemR-m4hQJkQw-Q7-kuY69XOk0QFOBkj6hQjs40IPd5DPD9GP-HveZiTrpTcwh-zcJxkMf0hm0mHvlSDwWGnxO7pT1O7Ssqra8-1NR3qYfU75963p1nB40Pv2DksKcBXciHMEcFJoEqnay~SA__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    }
+  ],
+  "textTracks": [
+    {
+      "url": "https://raw.githubusercontent.com/harambe-subtitles/subtitles/refs/heads/main/test.vtt",
+      "contentType": "text/vtt",
+      "name": "napisyaha",
+      "default": true
+    }
+  ]
+}
