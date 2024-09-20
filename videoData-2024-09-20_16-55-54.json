@@ -1,0 +1,13 @@
+{
+  "title": "sdfsfd",
+  "duration": 2594,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/ffa29f21-5425-4970-bf37-a42e93271abf/h264_1080_best.mp4?x-amz-meta-project_id=2a7dce5e-6a6d-47fd-b7f8-1d5163500cb8&x-amz-meta-request_id=F_cCI89i8jcY_A0L0wIL&x-amz-meta-project_id=2a7dce5e-6a6d-47fd-b7f8-1d5163500cb8&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=ffa29f21-5425-4970-bf37-a42e93271abf&Expires=1726920000&Signature=DF42K~mVzGi3h35NWr7LfTxm6jVAzjWxmKEWCJ~o23klEaFVdyld5~XqQa~RB722kKR1PRegULCq4yWPl1aQJgq3MouWKwjXkion24yWMD8blj2KC9pjZJBnBIjDQAp6Ra9KNjE-yvbK719jqYOjvv82dMXBRgPiGCTZf25yZd2mxL36FBo1u3shlDdUyTIV6cBHn9ff8RxM6s4wOvfNXyt9wDircm~klj20lybOaCKSomZ8RqJld2XL44pa9RptsqjagLrqdElcfk7Vp2m4LgG326XeytKriS7eH7NMdC~2p-Ah~7E4pMDCUROrBCjTrJVGmv0CiUwNdL-VmcK5Jg__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    }
+  ],
+  "textTracks": []
+}
