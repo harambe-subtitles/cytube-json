@@ -1,0 +1,18 @@
+{
+  "title": "monster s1e1 1080p to lektor a 720p to 1080p nap",
+  "duration": 3476,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/aa9033c7-3ca0-44e0-a9ad-c539b30c2976/h264_1080_best.mp4?x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-request_id=F_b_rHdJYaArnlQep3nC&x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=aa9033c7-3ca0-44e0-a9ad-c539b30c2976&Expires=1726920000&Signature=X83IOmRy3ofHtXeUH-acMEyCiu9auFL46MpghkCwoehOsGilMuw0EKSY7SE15LRFz8ptKafSFQ0Ak4kR~78s~0WumjBpMFhBVVmBccQ6eqXB2TGXcxSbXsJE2dEGpV3EbfJ1PXluNKm~XafP-yp-ITnQ8ftr0U8ir0pb4KwJCHESoKTSo-5pb0haXxxw5zbJZ8hkv1QXsKPm0QacXWU4rUec2C21GcAqiXTBX7NRSI1JNuo8gsn5HfxqjGvoI~5gx~CsGLEV86QpipQGE0UqrHcDafH-d3jiPnd5xD~iQstRIAipGwNVqjPbgGXgbccYa1QTdAie5tVXjYlufsve2w__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/093407df-3abe-4abe-9021-1056623154ca/h264_1080_best.mp4?x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-request_id=F_b_rHdJYaArnlQep3nC&x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=093407df-3abe-4abe-9021-1056623154ca&Expires=1726920000&Signature=EzuxZxvunHBbTNIUam5J~Ca8JD1JQk3HWr0nfMwKFGvjBHFT-Je6DrzmSJeszbsVDtcP4EUfmw37f3bxo50jL2wxGSK3QYWXL7F923uIQYOwYuyjLy59~fvBjhOSR~rw1SfZTKbAK5T9VgoDpWcXSlEWwBzkBut4OBkyEHsKJEyPGvN9r9~09qkrTvwUd-FI8fYjQK2jZEnI6cC1VaRK-k58iFrW5OGYeT61BPPBqdR6ySrfr39zhvJsDuGkT~xhfYBpQCwFkWFm0cqj5MNmasQCtsFl6Er4C0IPOerNKZnuNwaDq64zsNDqedriy6PlI00ms4jXLL3bHIg9Anu9uQ__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": []
+}
