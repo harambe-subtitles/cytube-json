@@ -1,0 +1,18 @@
+{
+  "title": "Porwanie 1971 (2024) 1080p to lektor a 720p to 1080p nap",
+  "duration": 6017,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/59926b0c-dced-4d7f-b68d-2c9c1e80711d/h264_720.mp4?x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-request_id=F_cD-dbLhaE_zAEDvgzP&x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=59926b0c-dced-4d7f-b68d-2c9c1e80711d&Expires=1726920000&Signature=KWkv0HAQq5fkj9veeu7DuKpbGaQ1EC8Ov8TB~-DM9P9vwo-m7eNCqVELf4qRJmofwqHQ0rzwtSfdW1x7DsJks19Z6ON5cCmkk50NcGv9BooJyIn0MI~iTKDKdSsX32ZXLXn2kRs8V6PQxG-5f~lrXA3-5gG3I~4NHgFSZ7uW3u0SEHv14Cq9GpYP-b-t5NoOcQLvxlKB9vlCi1HemdWnQuOw5gr715W1322a5R45ScuDz7yAY~p2UXPVz3Z0LR1Apu1GHfppGfk4h4L-OyBr3isV5cZr68Jz-lpqfnJSnzR1Husgwg-Xgyzicvd-rOBq5PkSpIttCnU5vWRv26j1sA__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/63ea045b-2f8a-4c65-b119-f73ec2e54466/h264_720.mp4?x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-request_id=F_cD-dbLhaE_zAEDvgzP&x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=63ea045b-2f8a-4c65-b119-f73ec2e54466&Expires=1726920000&Signature=J-EYKMD1vNmeSxMR1h139dB9O1d1ABbHHeOi33X7aD-TLY8qK26U5qOf24SPCd-DYYG5jc5iC2Kn-ozZHLtZQzzm3A2mTVvHzhXix4KUZf2Lxu7oV3gVJwxPVuxWy24UGEQpP8iOteJtWW0S9eYAZzaq9waoTeGhw-UP5~Is-DN8zQX0o1vJV2Y0FSPtVPbhcdcBW2v0KYE32awezjgQUgnz-7MAx1fWpWXaNCWKAfwSZ0Ir6nIXnfwxWAw9aNIvWwNezUxG4ih~j0juZUShbC-Q8i-KuEb15-wyURbDngRoCRUre0-TmUOFzgbh6CXPH1i2PJksuODHg6a3ltUsLQ__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": []
+}
