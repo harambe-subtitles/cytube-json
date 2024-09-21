@@ -1,0 +1,23 @@
+{
+  "title": "Przetrwanie (2011)",
+  "duration": 7053,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/9997d6ab-57d3-491f-99fa-fb0030d76681/h264_1080_best.mp4?x-amz-meta-project_id=cf73a121-01c2-4285-aef6-949c4407680e&x-amz-meta-request_id=F_dnW6aMQiHmhUct25gC&x-amz-meta-project_id=cf73a121-01c2-4285-aef6-949c4407680e&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=9997d6ab-57d3-491f-99fa-fb0030d76681&Expires=1727006400&Signature=ZHhn6YKDJT7LC-YAOfbmAQsFHKuax46~5044Z7S8KCHBEGT46u94nNcBsnwHm4qlNLUNaqIt70frwLZV21twgbnepeimKuriqpfKAv7k~HKHschWn3RbzcRcdBMZFekhAh2Jmf8NZo~J1CHhBkbh9R9BG66B8TM8ylSMGxHrbgoUs3eNi7VdaatbJ9CKu9EPV06xxYcIAQ5ZbIQc6CQy3rU4cxhPTGnYz1M9vNWIvaQVfAePKLY8qURD-CKc1~A7XtqHHHJrV3uhVlEoPRpFMALcD5sB1AB1JmLzw0giCWWW1345Jd7MFtDWDXlGyuGd18H4h1~Vs60MFdlb6cfhbg__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/9997d6ab-57d3-491f-99fa-fb0030d76681/h264_720.mp4?x-amz-meta-project_id=cf73a121-01c2-4285-aef6-949c4407680e&x-amz-meta-request_id=F_dnW6aMQiHmhUct25gC&x-amz-meta-project_id=cf73a121-01c2-4285-aef6-949c4407680e&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=9997d6ab-57d3-491f-99fa-fb0030d76681&Expires=1727006400&Signature=FW7TmT~mSRdj7M4uknyx4FteMMwnbAyTrbsJuBxhe-v1YwNvkl7m5506TtAFmHa7v-~PpDWqEVYJ45YZfChuM6X4Lb-lxXaoBH1c9xkPsh1mJyLBCuEbUiVYaE9-1x4nXkdOPoViFlhjqZbYpb8T1lAT53zcLZoYmbSnKXSWJAnlUG57TKdtJ9lJo3ZtiWk6gRPEgEggU1fKm79kplHsda0vppUS23u7GUnuoy8pgzT601bk0pjhMAbcH0sMkGxV4eQ16LVZHpAk2u6NtG4BUshLlMrDmo7c0fBDftiFPIspt7d3qtF-U9ailwKe8bx-NGb99Y5VZ9AG41kY4C96Og__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    },
+    {
+      "url": "https://assets.frame.io/encode/9997d6ab-57d3-491f-99fa-fb0030d76681/h264_540.mp4?x-amz-meta-project_id=cf73a121-01c2-4285-aef6-949c4407680e&x-amz-meta-request_id=F_dnW6aMQiHmhUct25gC&x-amz-meta-project_id=cf73a121-01c2-4285-aef6-949c4407680e&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=9997d6ab-57d3-491f-99fa-fb0030d76681&Expires=1727006400&Signature=HAwTdopGTIj6Y0w7YS1SQcyMws-lUfUijqKLETQPmRgK9JMHJJYyItGtS86m9hZdnmTEXkxCB8s591DGg9ey91hzOkNLnyYnCzuGVDildpplTymlpzfRGePsmFvodXbGLYcN681WSxfJ~pgwvm0-irYsLVqSCWn9gw8aFfblBniFvHmBHmaPL9XYoZKB55J8wimTX3chBGMExgTuUu2vu3gDAfT~jT5IrMJYktLrFY55NYmeB7nWtB2cK6eS8Po-gGdDIeMB7xBh8QbuW3ugZ1fYbEkYk-a3fm60yAcXOEg5OkTZ6fDQDY0blW9X5TE55BKR6ey~kTmKe2N7tyWQQg__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 540
+    }
+  ],
+  "textTracks": []
+}
