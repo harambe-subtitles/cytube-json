@@ -1,0 +1,18 @@
+{
+  "title": "Dobry człowiek (2008)  1080p to lektor a 720p to 1080p nap",
+  "duration": 5514,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/513fb211-d805-4aa9-abd9-21807880019d/h264_1080_best.mp4?x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-request_id=F_dSWn--gdXg9TMkgnEI&x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=513fb211-d805-4aa9-abd9-21807880019d&Expires=1727006400&Signature=B1yJRmrGxZRgfRPHntBB~dCrm9GrME4d8S69dKoBzn1Ug8Np66yRVPCz8LqArFWqj~sMK1AVKuSSPoB4~1a6rEJ5BZQP3JuLvsDzK0C-Aiqx-832wmyunLSuGGuyMrczWfV6-Yr0LzpkWXmytnN9zCZWtgbMFl7FaLHsNYlfF9U8mbrzitjUiT~StkxfP9muBxO5s3QItc5G99LHF6HdnNs6sm1iy3Wp3KUc~BNIyBF3LJ5K1Cwz~rFxu0j1cahaFBPzOBmYz~FVkcKbb21YYzLU0-aUsHzCGjlUrU1yUGiWhuF~Xn3UegQIWcNV8TwFhmD0LXZYqx-qmvpSZ05Hag__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/8f16dc27-6856-4552-a165-6dc530722e54/h264_1080_best.mp4?x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-request_id=F_dSWn--gdXg9TMkgnEI&x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=8f16dc27-6856-4552-a165-6dc530722e54&Expires=1727006400&Signature=F6lLRnIcniOeeqm5wqzu5SAzs7-XTW4fxQNRMLZPF8UdwrzAo64~QNFn3QgZK77PkWLK5NrCW085UVcn1726tf9DYQO8gtlXyN7SnC~sVtcVAbGpEODProlkRKNl03VRt7mPQXUFUBwWt8ZvAap8x~gC3p3juDc6BNl3xZE4CEcNAqjkikK3YAKJpJG8uov7AZhtASBHX8x5R8XFzw59lIyUAiwA0AW1I0WyqVBpfL1v0Ej2BBdv44fXSR1j7DcDhJHiHXzsomc3mmBty5Hz-vtM4wvPJSEXKPvAOGu8fmltGfpKVHPFfYaY--offa6oxpOwjvO40jJFzSLTOpDROw__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": []
+}
