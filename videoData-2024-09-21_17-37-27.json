@@ -1,0 +1,25 @@
+{
+  "title": "Transformers (2007) 720p to nap 1080",
+  "duration": 8608,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/259b23d9-a694-4cb9-82c0-dff6563c8ce3/h264_1080_best.mp4?x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-request_id=F_dSWn--gdXg9TMkgnEI&x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=259b23d9-a694-4cb9-82c0-dff6563c8ce3&Expires=1727006400&Signature=fg77rziD5HHJy-Ex5h~YG9hqBRtJwjqmInOrEmI6Dwsi2IZAPGXlzaP8YUDejoHbSLAh~nwRz6MmtWeiKB~ClOOD5ufxo-eFetKmsqVoV-pGAndXrKfcZFZs9ps8Fa2U3T18xgdQTqfIjhdW9TP5pumK16DBsDeeKiqmlZRaH7-ewjkLgpoaZdlfIXpq07tbU-dhT6-WZ3wEO4FlJWyFvjCN2MnWOROvEdJ26dROJ5arj9xrWNfXsx97Gafer6rU-ordHcut1PEaoGKrh5KZ~tvQvjpxfIc7jW4RGUx8W1Hh8HNDrKt82LCeQnZfCPWnjB8JXXtt5fre2lZK9XsylA__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/3003de2f-b1d4-4f55-b806-d5e42c8abece/h264_1080_best.mp4?x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-request_id=F_dSWn--gdXg9TMkgnEI&x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=3003de2f-b1d4-4f55-b806-d5e42c8abece&Expires=1727006400&Signature=IEI3HCxagfJKO1vKy2BTtZEKtfuLlivQ1N~tisQc5fqPYIk4LnChzorYZI9dhqEHldxnzgeUdOuBE0WAfaRsxFJQxzxuONyzfFbSYGVRBKF3DMlPjypVJE~cDNWSOrvunRyBM-5O9Ejz3RUn0K2mrS4X3cwaMJ4TdegNuyf5~D4TRuYq3Q-rcKdMYJw7Jk4~nky0ro2INu2ZZU1kCOjVzdidIwXd25wqI3PrWamCKdw-Ijs5maEW-tJrNnwOQnICSe62ugf3B-HQ3-FjVt3jI0PyrHFDJwelpj24ouTSZUybPHS91yAMj6w~eaOVRvlYxtMo1V6S5YN~DnfL~mBFBQ__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": [
+    {
+      "url": "https://raw.githubusercontent.com/harambe-subtitles/subtitles/refs/heads/main/Transformers.2007.V2.subb.1080p.BluRay.x264.DTS.AC3-DENDA_track3_[pol].vtt",
+      "contentType": "text/vtt",
+      "name": "pl",
+      "default": true
+    }
+  ]
+}
