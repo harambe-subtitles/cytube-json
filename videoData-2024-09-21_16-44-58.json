@@ -1,0 +1,25 @@
+{
+  "title": "monsters s1e2  720p to 1080p nap",
+  "duration": 3251,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/d55b0299-3037-4992-90a4-22b3c78ae0dd/h264_1080_best.mp4?x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-request_id=F_dP3af0Ukrb08UaWDNJ&x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=d55b0299-3037-4992-90a4-22b3c78ae0dd&Expires=1727006400&Signature=L3YVO0Hf5oN344p9Y6uVswM~I2sUw7kBRp5qsCoVpDEyMI75jHi9LqOS68Mv6HMdKVCD1-AsRSrp6UEZ43nrEzcGxhzlGafWLNjuGrhXo7Ulx2NkUXQSGh4kMF3X~cDo0FkQ8ChZL9vEdRwDc9VmUMejOxbgiuFNTEtUK-hnS8bl94gvB8iagKi01vQbiBqisVNCTA3v-GCTWaGOWdkyAwup-s9GMNnARTjD-~lQLbMYTJddtaaQyRx3UK92DvRZl3oA~FytpZUiblR8JqV~EKWaCsvfxAz~D-4d3hYxyKK1Uky2RaDwwFzOBpko9i0YdDkJPZhaMbykF10hY9sZYw__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/a2d75e5e-0a61-4f09-8761-428594a31b69/h264_1080_best.mp4?x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-request_id=F_dP3af0Ukrb08UaWDNJ&x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=a2d75e5e-0a61-4f09-8761-428594a31b69&Expires=1727006400&Signature=Vn4HSMGwYBOnv6JZsdvukblnLcD2HB-6vIE0ftOPGhUDL7-gOqw6zs~g12xg2JVwvoHh3qe6xT9gPKxWRIucny28TUtPQq3RUO7yUPe6JtWpoWyQ~UMQo4~ad5XhDrOouPMvJ7-mLbhZJ1sVAAvVZ8U1J8z412hIZsaY~oF6t3LY18AcdH2kopxI1F1BWZe2TSPMI2JW4naRbelJvS6n0kqhsDaTYUGZVslZx8vlVNFDG3mMjCTXCztOOiGp7~ctT-fzfQZfxIqkFQfdX5ucF1ayIbkS42mDuoPP9IlZuQ-QFTZSA7TO29BI0LA5KS1eI1ewRCnqk8lOTPzp4i7T3w__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": [
+    {
+      "url": "https://raw.githubusercontent.com/harambe-subtitles/subtitles/refs/heads/main/Monsters.S02E02.MULTi.1080p.NF.WEB-DL.x264-KiT_track6_[pol].vtt",
+      "contentType": "text/vtt",
+      "name": "pl",
+      "default": true
+    }
+  ]
+}
