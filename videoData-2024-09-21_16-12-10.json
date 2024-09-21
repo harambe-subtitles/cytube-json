@@ -1,0 +1,25 @@
+{
+  "title": "pingwin s1e1 najpierw potem bracia",
+  "duration": 3982,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/a79e5178-7411-423c-b3ef-7aecafb6794b/h264_1080_best.mp4?x-amz-meta-project_id=3fa172c6-8416-4be0-9755-9b81c8b0079f&x-amz-meta-request_id=F_dOUwq_KQoI034ogfsE&x-amz-meta-project_id=3fa172c6-8416-4be0-9755-9b81c8b0079f&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=a79e5178-7411-423c-b3ef-7aecafb6794b&Expires=1727006400&Signature=idZ8O2pD4FwVUCidkvycZLnMW1T5dM95dwf6lPsxQ2ZK8oSjdgmz1aOxwrAXcJ09klSI~IelObjaTMq3U4EJoMi~r-bYkcRBw8n3UJrHpESPjl-M~0HiF5uYipbX1V6QfAHMRUOlAhO1bxwdji5APmAqv-uAGom7DQUAE9sKWYlvr1vUNS7vvjbLA2QXbMN9~mVJL7bFBzix6ItrBddrnwKmQ~Evb1ne9JD8sLVXzFKjRlba-cJ3U9uz153y6gNiIklZqK1XpeOdro1BKvQQI4tanrgcUGYpTwDAk6Fgn~pycvDuYQ1dFCSRPCvjPKjCH~rUi5sO8QRjTPQRiE9K~g__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/c5623297-59ef-48c0-a593-a64f63e93c36/h264_1080_best.mp4?x-amz-meta-project_id=3fa172c6-8416-4be0-9755-9b81c8b0079f&x-amz-meta-request_id=F_dOUwq_KQoI034ogfsE&x-amz-meta-project_id=3fa172c6-8416-4be0-9755-9b81c8b0079f&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=c5623297-59ef-48c0-a593-a64f63e93c36&Expires=1727006400&Signature=gOGupj6JZnmocMdDuQ5pnpIC93IHA4VgrjiQ4nPnEvKXr~tFhucA9aSGEoPWCLHk4yE5w7Zq1BchlFSUX5pk2iUgBJe2ftxoBLsglakXkux52n7kfv95XxemDlvPW7mAmfzZUXWSCKNhOvI3abNTukypPkKCWW3b6NwElMGGFx7FiyZPc7mpjzlMNGh-CFDmwpovRotoFph8wwg0jHf8V8WMoMZgGOAGAHBzY6XoGIMPsdZZyBgKoJIWx-SMh891lAvYSJ9b0eLhIGvkbDXB6TT6WbBQ1BvKAz38zYAVzcc3BGWnQaxTDnFTLIvqzt0RADu0hygv3C594rE8RltMKw__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": [
+    {
+      "url": "https://raw.githubusercontent.com/harambe-subtitles/subtitles/refs/heads/main/The.Penguin.S01E01.MULTi.1080p.MAX.WEB-DL.H.264-DSiTE_track5_[pol].vtt",
+      "contentType": "text/vtt",
+      "name": "pl",
+      "default": true
+    }
+  ]
+}
