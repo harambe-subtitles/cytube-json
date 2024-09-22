@@ -1,0 +1,18 @@
+{
+  "title": "Transformers 3 (2011)) 720p to 1080p nap",
+  "duration": 9264,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/06e35d9a-3718-4b58-b2d6-813fa90ffa5d/h264_1080_best.mp4?x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-request_id=F_eoT_cWYOEIMdExzXzC&x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=06e35d9a-3718-4b58-b2d6-813fa90ffa5d&Expires=1727092800&Signature=VC8MmmIjlznpTgzI9Rf3PthRwQOgW1MSWid7yhMw6rF~sDXIklBZBpc-qOWDjvVDZJ1jcakKIdsEpJgemnhOHfkuOJILu6Fui6CPU7cxujHK9kkbWkDXbPxgPSYrpKeAr~5Xd2yQDx8uV6msZ1JI-I-SgaKfqfCrI2UsZqM7QlOptXt2fX9IJZfQf~61Q410bsnQaUp~Evxj5N4crAcJwf1FBYdR8eU6WO8gzAivywYCN3cms92m5iKyklfpzdXfLKkMC3LqITEPaowR8wLmQ5ZcSikRjS175aKN1WuYWDXJBb1uKlyddnAgSSpqrl8FuGTxG7ouo3z7JETkS~Ux2Q__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/1abc9d6a-0177-4695-ba60-750b7deeabf0/h264_1080_best.mp4?x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-request_id=F_eoT_cWYOEIMdExzXzC&x-amz-meta-project_id=366f967c-29ed-4e58-82c5-1c92569cf063&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=1abc9d6a-0177-4695-ba60-750b7deeabf0&Expires=1727092800&Signature=LD2Kd8vK0UtMn4qveHeztaydminFs1kJaPB4lN3duWdc6g1dJOSa1nKTHojtbvOLRavCK7wZrGOmzELD0xSxwmYhO1iYUcBOGVbIhI75aI-2lguJrRWNcQmcsY0aIRiguG5PAeTI3v7N55unc2yGvDrOi7y2j6DPVoIWeDBqmCXsuQcwuzEsx~cYVuXKCxnMht22CrOuUaP8PPlKQBynwPKhQAgBbIasgNIEAJ8N36OAh4gL5qZVEzHUz5c5TTSX7kT9Q47gySvgwaaF-vw9TUyNBbcGvYiy~Ym4Wr~37owwdtLIloSWW5wFgvhgBkFkGTtNT7xsfuAkjaAe-ofwzQ__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": []
+}
