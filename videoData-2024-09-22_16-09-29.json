@@ -1,0 +1,18 @@
+{
+  "title": "bracia pe s1e3",
+  "duration": 2994,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/8d98adec-f5cf-46ec-8bc7-c23e4e6d7dba/h264_1080_best.mp4?x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-request_id=F_ecw8oxLoGasC0xi-JC&x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=8d98adec-f5cf-46ec-8bc7-c23e4e6d7dba&Expires=1727092800&Signature=SrL-Km~RPuJ6aKxKuIZdkFdnylrXli6zMA8LLwiBj-EYTqRYPzUQMLIvfDx7C6bh5LcPFPDBsokESaYSCn0-ru5p7d3EddG553SAMVLzo7ceU4Kpzy~wCYZuBCwuzARaX-vsQolHw1cbdAR90YspNG55zCxj1Q4RXAcz9HTeai6djC67mltqLNNZdWUmHipXLiOoWD-2DuSmWWvTxaVcXSNKvc9ypVK9w52ajI3qWTMCTdsELHJyZWGYEMMFPE1gb2lq7mOTCNcXT-nhbIcr1wrsLp-MVBDXFXqCG7bZyNZ~NfYJCLF9cFWKRJ2ULYeeWcfLogk48RG7Syz2QMK6EA__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/64a5d6ed-e0c8-4894-a329-681e22a1c8e6/h264_1080_best.mp4?x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-request_id=F_ecw8oxLoGasC0xi-JC&x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=64a5d6ed-e0c8-4894-a329-681e22a1c8e6&Expires=1727092800&Signature=Yr8e1qMZ993YpOev1ezdVI8WXV566KpNTlOAi3D9~e5GQ-vteLcRwjC28ZUeF8KQ-8-nu-DQur8Agzlos4Nz3oi1d8ZV3T0PKKHU8gl3zTvuUFfdLPCsILwGNaYgj2PzksS3S6ELkAH61lIL5cjUMEfNzaarThytXWwKGgkrgHLYrJ5SxWm0x60W5~49kv38kVigGe5jTqBL8Xa3mBMoBlOim~KOMEErIyhyBMgD6MIj57EeIacxWEH-amlcTF30vh6JYAg7Zfo3mstEt4c-7BXJqgKM9V9N01HxWEkoeE5E6o8bOxSY5vL4B~SYprow5GFkkQlbTg8dNKeG905yCw__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": []
+}
