@@ -1,0 +1,23 @@
+{
+  "title": "Planeta skarbów (2002)",
+  "duration": 5724,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/103752d7-7af1-4bb7-874d-b437e2b793b3/h264_1080_best.mp4?x-amz-meta-project_id=cf73a121-01c2-4285-aef6-949c4407680e&x-amz-meta-request_id=F_eBW8VK9lvAsQ0wZIaB&x-amz-meta-project_id=cf73a121-01c2-4285-aef6-949c4407680e&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=103752d7-7af1-4bb7-874d-b437e2b793b3&Expires=1727049600&Signature=JJh4ZEdZNavHxte7Pv4IxhrhIRpywHTIUheNOqdBVOYzxpsUgp6Q94OYkr21UZWO3tEUAz5~wBgl-kD6nRz9ejwsLe6hIO~lSLYEcRhB43R~YXweZqqzNgVs5ZVxAE3Qn7wDbSQc-KpRkjaxzqaW-t1NQfuG6Mo9lEaEL5UQHWxuQpwg0wy4wvYNt5wZeW~Mzeg6BTclaKwKPZhMlj42o~pnPa20Ju4KfB84KZ2upzfS5NL7tWXV9PRIJ~~DjUn5ECU33MeHYE-hkQWW2-~eRLuhMrl-CQAk-D-OnEAdPjKnB-aI-TfM-BS3jKMv3P6CSBjfrlWiPV6be-rvV9N00w__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/103752d7-7af1-4bb7-874d-b437e2b793b3/h264_720.mp4?x-amz-meta-project_id=cf73a121-01c2-4285-aef6-949c4407680e&x-amz-meta-request_id=F_eBW8VK9lvAsQ0wZIaB&x-amz-meta-project_id=cf73a121-01c2-4285-aef6-949c4407680e&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=103752d7-7af1-4bb7-874d-b437e2b793b3&Expires=1727049600&Signature=nlOHYveENiHicanWo~YPRdtDKg8pJgdx1MgXOkyPStITocX9Wx9Af~TEyscjBvKMXgNWA0DewY1-fN-QRWxRgaJjLXgjU1Q1HJJYimw57EKl-INQMBLENKVKuSO1iPMMRcq4vpUXr7ADHxuPq4EUoY7Q8nMDayB-ZFIdoeMoqOB0OZPltp~tEuisFWHbp2KU-1XIQcllUhmZM1ZECCEcYAW0tMbrvhm0BTKuHWBi6SDYiI1TGlHrrfPGtX6thmy37eRTqFhaazFusm6mkqAeQVtzFhQHGKQnCcv3WZun94rclJXXzjvm6TaxbN2UWwgO-s6x4Y7zdrgBT5vv5lEDLA__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    },
+    {
+      "url": "https://assets.frame.io/encode/103752d7-7af1-4bb7-874d-b437e2b793b3/h264_540.mp4?x-amz-meta-project_id=cf73a121-01c2-4285-aef6-949c4407680e&x-amz-meta-request_id=F_eBW8VK9lvAsQ0wZIaB&x-amz-meta-project_id=cf73a121-01c2-4285-aef6-949c4407680e&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=103752d7-7af1-4bb7-874d-b437e2b793b3&Expires=1727049600&Signature=fSWi-YCeVEi3gh31lGQMazc~iNe2exOV-teQlqF66zlvhn73bLOonEonUnjmvBfPSZLWqaVi0cW3rx1STnAmek-fjM9mFrlTqWUX4YFb5OvjYxmY0JCycHyd0cWd-1UbQ5qJ~mRCJIGH~cVQMCWHS9dOXnEc6C365PbahjOBzE0NWbS~eJSBCJFVQRnGqS4G3Gdf8GoDQCmXwBaN89AVXb7nqNyca1mmiQx6LQ7AoYJZWpf5vHwH-qef3xM5SK9O5CdrlRQXy6f4QMkMeZaEuyI8aD6xIZ1Tez~ggmuT-OuNkljlQuyudm6uMM4ebhLzJwaUIQyoRW6dkuGtFY1I~Q__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 540
+    }
+  ],
+  "textTracks": []
+}
