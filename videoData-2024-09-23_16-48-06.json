@@ -1,0 +1,25 @@
+{
+  "title": "Transformers: Wiek zagłady (2014) 720p to nap 1080p",
+  "duration": 9908,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/a4099ccc-e8d2-408a-a650-2f948d0d6ab2/h264_1080_best.mp4?x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-request_id=F_ftV3B5ets_-jYBn5dE&x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=a4099ccc-e8d2-408a-a650-2f948d0d6ab2&Expires=1727179200&Signature=Lpd9Oym83jmfc88z1UBaG--UQmTFviqfPVozxxbla297PB4zCq6Coe6r07OGbKNxoPn-ZzT45CcUEmxusXqgKhyobX75yRjO9I58KjdZ~FDREe4Ktx-cuyib-Smy~wFqG1V2g2E9CWO5F5au3cjkzEuGiWATi8BJedS06rErCP-K1JGeLuwxcfn6eVJHofEaXx2CS5UHdlQ0MUw1oQ34i7XfN80UUL~imtAboQw80UNakSyMebRVC5qyP9aMoSFuxAH9BIsS3FlX76o9G-AM4BJfl2D2LkK-p6xLoe9KcaDVf9RcPdSSEwwqIRDX0If9pNkYuGOXVXZZcDA8IcInjw__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/4fcf03ab-fcc0-4109-8360-f158b66d98fd/h264_1080_best.mp4?x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-request_id=F_ftV3B5ets_-jYBn5dE&x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=4fcf03ab-fcc0-4109-8360-f158b66d98fd&Expires=1727179200&Signature=Og6LbFUa0IrJ19z8mjultlBHtssgNqZVT~CGP075DHaswmjgT05NGuWMeWqJkcKKhWWDYln84M3cCD0e9sa1xhk03FgkvRQvvDuUC6vG6FGbueUZzYRJdZCprdn-WJjoNiBnoVi9~Brg7VynjCytwPrtcO6f24KNpY97zjIMrQvkgEBLZhHR9bisFzyE~LyAoyUf916Az41M0jc9ZGF14bhv4ho9DbsFXOx4n18zD8OE6jirT7247ZcVSRNvsuZMY2O1ysMIB1LWij8DIlTTyl7FTxvwkVQ3n~moZisbXhXNu~LLPNojM0Pc-RWeH7FTC2fEyCtSWBSQv9BHXA8UFQ__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": [
+    {
+      "url": "https://raw.githubusercontent.com/harambe-subtitles/subtitles/refs/heads/main/Transformers.Age.of.Extinction.2014.V2.MULTi.1080p.BluRay.x264.DTS.AC3-DENDA.vtt",
+      "contentType": "text/vtt",
+      "name": "pl",
+      "default": true
+    }
+  ]
+}
