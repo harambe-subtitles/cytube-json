@@ -1,0 +1,25 @@
+{
+  "title": "Transformers: Ostatni Rycerz (2017)",
+  "duration": 9279,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/348e5484-6c06-4134-9ed7-e623472a03cd/h264_1080_best.mp4?x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-request_id=F_ftV3B5ets_-jYBn5dE&x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=348e5484-6c06-4134-9ed7-e623472a03cd&Expires=1727179200&Signature=nLsLLc2I0w9YKSKQ7JAi1h5GwLiaztdEJ5qgbTB0GigdouUtI1COr8jRLIVCr2IKfqD0fTD01wYIgdc4ibZ2s61CoC8cHg5o4AMK3Kn5O1qwmytVLHtlXqroFVkNhOuUzDdyKICDwKd3tYQswPyN5pxxg73PzD~AylM9qHRZ5rFtpTBMCcEaCy7cHlKdmqn5RDKaVtanGgjQRClV3wmHiX0MmtFMOtTbh6cj-UNibZUElUL~Oa1vXni45WCZTAUGjt0VOLj7ZcNCE0QYGb7yLhsdQD9rUF4A4A9~qDRGC8hcxpi9Eo~yKxNgkISrhox4KkGV-2Au083-KSvbIdH4ew__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/783c683f-2e35-4ef6-8463-dd27c3113fcf/h264_1080_best.mp4?x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-request_id=F_ftV3B5ets_-jYBn5dE&x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=783c683f-2e35-4ef6-8463-dd27c3113fcf&Expires=1727179200&Signature=COuJ0IHsBDDT-~HmNr9Ica8yGOe-j2aCEZmIcNZInwTa0fecNRrVidsSmzxHOcYZe-gW3Ie6rxe42dePe1LvOSwA0rDfyrwev0aQnpvOMmTkIqSx1STFbR1zc0inzYWsfQQ3xTwQwsDrdzgKl-asxguY~lYF9DqJ7W0duRGRMZ3YV8f1zpnUlTEJs9WiO4jRzqVhqeyv9SFgKZ6Vmvo8BHsX~YedEqOPxV9jU35iXdW~lKZloIs5iamavE9i7TU6HTdCkxEvrpmUGINTBlvzJG69xJYneRl4vEoauNHQM3cdeFOds5poiZKAXOWBSIjS0yTcMS7CEcP9spZE3frMww__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": [
+    {
+      "url": "https://raw.githubusercontent.com/harambe-subtitles/subtitles/refs/heads/main/Transformers.The.Last.Knight.2017.V2.MULTi.1080p.IMAX.BluRay.x264.DTS.AC3-DENDA.vtt",
+      "contentType": "text/vtt",
+      "name": "pl",
+      "default": true
+    }
+  ]
+}
