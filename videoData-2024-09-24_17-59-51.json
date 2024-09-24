@@ -1,0 +1,25 @@
+{
+  "title": "Kruk (2024)",
+  "duration": 6648,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/4b434a37-a429-4158-beb4-eb6985b7ba81/h264_1080_best.mp4?x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-request_id=F_g_2S0758wHM8EUSU_G&x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=4b434a37-a429-4158-beb4-eb6985b7ba81&Expires=1727265600&Signature=e~MKd12E2e-tCnAvPDRqHdYvcpwlL715F2siTE0LWtvx68W8u7myTc8ORMgxIWVaiZLAfiK1-eNRn6ewHqslsTFXs~mIz5PiFzBCHKysGeqQqbRdHNH0SOz-rXLKHNo6shgg-AhWcztRrM9ompKV4RdcVgnkBR-cqomy~FQ8vddu30W~4ZxIPi0-2BdOS9mhb7BXJOUGH4mEokT6S2veVZIcnXRMrnm-W9jupX2zD6tAhVOjN0qLfJ0zCmJW7MGcNsu3ihbGltt2KTNaFsX64AQVxHKElK8-ApvtYDwuyBivOa8EdhTjswtIzgSHHpuXTy6pfaceHnCr4l9WYk8Amg__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/4b434a37-a429-4158-beb4-eb6985b7ba81/h264_720.mp4?x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-request_id=F_g_2S0758wHM8EUSU_G&x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=4b434a37-a429-4158-beb4-eb6985b7ba81&Expires=1727265600&Signature=JZQ67NAgTOoZsFC4Jjn8EzacZEzOAU1z9VUChmiFm6K61pMrUQbSUV0ceKbjfYrCEiMR31Vjdm-a9DUbVS9XBc4d02skdXMbpG5rqASbdQnQjdoDBrPlJqhiHY49SYA8C1~EHR9pi1dEMBN2YVZRr~s0j0seQwLnmxsG642I-QfJ1VSGUGNxVaO-r~9ofv-lvpg7R5GhhCdhIKQ-v-cpbcK-tEy2bA1RMSaSbR05ClyUwhO8~ltAF-sUnoapX6aDDWV1sl2oHxXZH83j2HaOZv5m15Bj5cGhhzIQmR-3iNd97DQt6WNb7Z1d~rJ9Klhe3PhROooJUjPM9zc2WkbMoA__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": [
+    {
+      "url": "https://raw.githubusercontent.com/harambe-subtitles/subtitles/refs/heads/main/The.Crow.2024.PLSUB.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX.vtt",
+      "contentType": "text/vtt",
+      "name": "PL",
+      "default": true
+    }
+  ]
+}
