@@ -1,0 +1,18 @@
+{
+  "title": "geje bracia s1e5",
+  "duration": 2165,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/57854a33-ecd4-47b5-b7f2-b2642e0062fc/h264_1080_best.mp4?x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-request_id=F_g52UglBjWRW1MUkHBF&x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=57854a33-ecd4-47b5-b7f2-b2642e0062fc&Expires=1727265600&Signature=IfzvPJ3CqT2wmAM8A8FxosYXF2Np~Mn4weNxQ-qed0UNvf72byA1R9xut18dl2E8CRlt5zYahJx5jzjBfhyF8yAVNJ620JLljhe-EldgHdf47EwY6zVxRLOJ30STbwYZ3nFx0u24eD-Pk1WMuXrKMo-d6IsubOUKuXsc4kjWeonCiX65485Fn0U-xjGJiWuIq6GHw-JrUe7dgMZm6QVIkY5jPt8wITdNoyuMr4g~kDFuthUqxguJXVBapjRcerfbnRkCmKHXqwoubOLKgsJrREqTuS9P4L1RJJ0kaOvJX7sbJzmT~UbNmqGhtqDbR3f4Dw9OpOdIhCJjkvvqDWq50w__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/c95d56eb-5190-4487-800c-a3b8895ee947/h264_1080_best.mp4?x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-request_id=F_g52UglBjWRW1MUkHBF&x-amz-meta-project_id=1532f17a-728d-423b-a8c7-52d21f3c8828&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=c95d56eb-5190-4487-800c-a3b8895ee947&Expires=1727265600&Signature=RdXK-A6H8p~KfPcOGEEDBQOam46wd7YQ9CcN0RycDJYuwCyduP8xUgtMUFCSqfH0My9-pWyDeWxZNKY5ItCfLCmBZlBRyKHXPnoKYSjFJ~mNe7s9hP2s8XsiwuimHDeLliMdhRILRNoeYjOQVr5bZLD7ZpOjAoas4DzV0TFmuIxIwStfIxTEva7Jd8mKb3cccYU1PojWp~cXidzk4ftl3gQXi6sHyQpmp8dnoNLfESISNZe76ZRTgY1q0O0UICyi00Oa3045NR2b7Mr4iAL-oIxTZqhyH6Ic6EBhSlGxB-6Caznueh1OSYinbYhGq6xJV9JKhjGysw2C0XCIDanD4Q__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": []
+}
