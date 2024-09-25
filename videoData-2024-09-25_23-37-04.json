@@ -1,0 +1,23 @@
+{
+  "title": "Obsesja (2009)",
+  "duration": 6503,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/0ed0faf1-8789-4b2d-a537-39298a82ae91/h264_1080_best.mp4?x-amz-meta-project_id=2878cef9-ecc9-44f4-a94a-178d92394035&x-amz-meta-request_id=F_ig475JVJkyDoYDtkQC&x-amz-meta-project_id=2878cef9-ecc9-44f4-a94a-178d92394035&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=0ed0faf1-8789-4b2d-a537-39298a82ae91&Expires=1727352000&Signature=fA6zVZ~fWwbhf2TI43c52aDRgANxVmG4~nlCF5FG-UHz2-1oYvYoDrW2vpJL9wBXXnTdVaopqPsL8mcmiEMH5o8KhBZo5UQr-vtOGYyr6zpK84LIJJqyRA5HXF2FCAzIlJme4KAlcEdSR4EGr0MMXC9~HSOkBbLgmGu23NYAgChdvD9lxiG7ND-QOd-MWlas7UK0VXQoenzRoUwfqlFMDKzZfGaUMgBm8XtFei322TvfopRjoml55tELG8gK0wFqg0eIJT6GA9VReudszYxWEkf4r9bQrDLxz78QjwfJ9rLref28fKdur47o6JV27bOVH9Os2-Se3PXhVOnq5y7eJg__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/0ed0faf1-8789-4b2d-a537-39298a82ae91/h264_720.mp4?x-amz-meta-project_id=2878cef9-ecc9-44f4-a94a-178d92394035&x-amz-meta-request_id=F_ig475JVJkyDoYDtkQC&x-amz-meta-project_id=2878cef9-ecc9-44f4-a94a-178d92394035&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=0ed0faf1-8789-4b2d-a537-39298a82ae91&Expires=1727352000&Signature=UeHBiJnGtTe6-xeyR4~5GEEQpCIRWNPVWG0wa-7HBf9YKJwfkAGk6WxCvy5xXhMyB4d3kTwpnypEWKVQEGd7WseaMNMXvjACn6Xjef6bgLW5u7hEtpCAJXcPcxLGXaX3HQ54UD4Cf76PcD2B6euwo816Af2kjgCn4W-v7bDMO8QcER4ieIoea9Yrnp4p5MghuFLyZvmMMfD6RepeCJdqZ8SKCDqPn7A9XygzO4Mj3z74X6YNKZNq76FXPAfvYuDaUxt7Zsbxj5LKmnyxcHzEmIAcsveN4SQD-cUU2qFtxp2GD3oUKxMrOIop67tSsrsFoZu38n2F4DvfJfOvBGNu1Q__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    },
+    {
+      "url": "https://assets.frame.io/encode/0ed0faf1-8789-4b2d-a537-39298a82ae91/h264_540.mp4?x-amz-meta-project_id=2878cef9-ecc9-44f4-a94a-178d92394035&x-amz-meta-request_id=F_ig475JVJkyDoYDtkQC&x-amz-meta-project_id=2878cef9-ecc9-44f4-a94a-178d92394035&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=0ed0faf1-8789-4b2d-a537-39298a82ae91&Expires=1727352000&Signature=Ej0ni~Zc-NOOq5ta9r6hOut6~mOr47vgcuvVq0cY34mtJYyCfVrhgsRxDzHfSePuBTXRth74fey~cKydMqVGNa3Dfw0fDVMBmoRA9NvMFWYyJQnXFJYL9e-CPgGNNTppkzVS5ExcfGsBEMzvHoLEPgRvvpTWn2e6Blul~TWrYauCW~XGrzxyszMSjBMhX9urTftcD0AS9sPP~FLa~Xs-Tm7iHsvB-bI3YuXx2ti~mP1E4j6iim8b6obwMDFUxdLlqNZ79e56Ot99vIdUFGIjtO8~EtfJM7g2y28i7Ux0SS-vAKdijj1sryH18TZGYWDYpgfsS3ETez54bdXCNX-D9A__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 540
+    }
+  ],
+  "textTracks": []
+}
