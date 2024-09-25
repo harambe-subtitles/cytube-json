@@ -1,0 +1,25 @@
+{
+  "title": "Kill Em All 2 (2024) [Harambe guwno premiera] Napisy",
+  "duration": 5322,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/4d5b9b8b-7b61-4fac-8572-fd0a38b0ffab/h264_1080_best.mp4?x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-request_id=F_iP2g0jlYTatCEQWRJG&x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=4d5b9b8b-7b61-4fac-8572-fd0a38b0ffab&Expires=1727352000&Signature=LcpqEqnKewT5DC4jqLIX5Y3BVvsVsv7tg2Ze3e3JhZr2M3wD-fZGzn8OoV3Zle6uxL~hNOtLSOrBCR4scagpEutyC3fFw5kIeI~cCv~--mt~09vHv6aUjjikxc0o0oQXoXJoJedB-e7tBdfAFnxOb5XvAnhX9TJHiW3Co1Z30c57GtVeWTKy4363CLgNE1VI7G14QLLHtx5ycUO0UapM4zgTmeTGQblrD9PIRhU3CKdOZhVtPTNdQhk-RrEgotuZikqPC4ITRB6Hl3s43ExXSoqYNKEdPYQOGqgPYSsGQQKBcoUyaXBJo0OPWYjGwU4a-gQJDMB-vTY4wmKteENMMg__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/4d5b9b8b-7b61-4fac-8572-fd0a38b0ffab/h264_720.mp4?x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-request_id=F_iP2g0jlYTatCEQWRJG&x-amz-meta-project_id=9406c643-6607-4a54-87c2-51b833ee3c68&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=4d5b9b8b-7b61-4fac-8572-fd0a38b0ffab&Expires=1727352000&Signature=BIVX4VRpcfe4elGnxIbWP9somOgxwdtrvPyVjHrpMpHyhsaZ1J0RZ-xgBO5WZG8nFxxfcF6mKxsLIOBl9pBj1EXYCULykNJzwIkCEJX69IC~K54opTZ2lt1PTOxqTXcsxiiRUESFWZLlwZpZ0qJvmJcf1f4IwtlxF5kHIohJK5K~mmn16Igq0XrGFYAwUJmBdZScQTafV4JY5mAwuKIFY-dmSqR9av95QfwCWB5xnI5NHBkCwpy447yDuDsNuhNVyKUtuwYlwsNBguTx6M1f7VKVeFs6iRQYDUMRjE18yLgzFlJDipL0aHXSfP4L8HoxewBMqtxJwqzEfOHRJAnvog__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": [
+    {
+      "url": "https://raw.githubusercontent.com/harambe-subtitles/subtitles/refs/heads/main/Kill.Em.All.2.2024.PLSUB.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.vtt",
+      "contentType": "text/vtt",
+      "name": "pl",
+      "default": true
+    }
+  ]
+}
