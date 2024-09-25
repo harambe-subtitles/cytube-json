@@ -1,0 +1,18 @@
+{
+  "title": "tulsa s2e2",
+  "duration": 2632,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/e536bebe-ce9d-41f6-912e-cf9308f52870/h264_1080_best.mp4?x-amz-meta-project_id=989d75df-51b8-4a05-981f-6d550fec8a77&x-amz-meta-request_id=F_iI-dF8eoGPAQcNt3cF&x-amz-meta-project_id=989d75df-51b8-4a05-981f-6d550fec8a77&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=e536bebe-ce9d-41f6-912e-cf9308f52870&Expires=1727352000&Signature=m4eIT4RF4wJQPlmEKMn8zBixF6ipZxSRTxfYAFL59ixl~PTaX~r4mKo-FIAjadGldSAIiO9YaBYKq555BN-0QGXo-l4ZV~9rPdZ4WVVcR1-5Jj6VYcSe7HwWDmxiuro3AGnEUTmi3txyCaU2brCOfg19npXcGOKvwYR6ZjKsAYxFhgx7D-ZmBE8-uUTdbDrKMW0wJKslm0aDTR1kBlpxnSZsFS8futupXp3waZgd-rm61Y319voTIzZja0EiaS5R-KX1xRjsMQtq~UbtyPmmu~ABQei8XDETN0~AeqFHKJIRebJ2kXl5dROkx5j99VJXQUI18hBp8BE4W39uhyQh7g__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/3e983925-2177-4355-8258-3aec8182c247/h264_1080_best.mp4?x-amz-meta-project_id=989d75df-51b8-4a05-981f-6d550fec8a77&x-amz-meta-request_id=F_iI-dF8eoGPAQcNt3cF&x-amz-meta-project_id=989d75df-51b8-4a05-981f-6d550fec8a77&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=3e983925-2177-4355-8258-3aec8182c247&Expires=1727352000&Signature=VU-KtpUXUaKT-n9rXOIIDzWTBJYOlDXwleyciW4d2vM~zKjBKmsb4iYv58O4oWRg443T-NhYSqeYQ1iferpaxkDz-K1mUCYaCRSX9z0iDcZbdc9R~tUIqXR7gjC7ZEEyk5lOZSHC6bHL284NPl2fzEhBoJ6oq7HqpnwgsjbsyqhNSJPCqLRJ6GxBsUmpHHbuqJ7ivb6cNLL-5crNkIvosG17fQfzz1R~mSyzj1tncnng7hpewXmf8ZEoVj7AZDm8vh98VEKm5zfUA-gsQofna6LC5KR34w0TC7SwDJYxLD2cdRFPBD325OoBz5~whjLJ8njYgPgLJ9zvnz-6h7CGpw__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    }
+  ],
+  "textTracks": []
+}
