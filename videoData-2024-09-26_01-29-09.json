@@ -1,0 +1,23 @@
+{
+  "title": "Bylo sobie klamstwo (2009)",
+  "duration": 5984,
+  "live": false,
+  "sources": [
+    {
+      "url": "https://assets.frame.io/encode/89e79558-a5ff-4f54-b25c-ff633090238f/h264_1080_best.mp4?x-amz-meta-project_id=2878cef9-ecc9-44f4-a94a-178d92394035&x-amz-meta-request_id=F_inBAv1XZuoiWMESEsG&x-amz-meta-project_id=2878cef9-ecc9-44f4-a94a-178d92394035&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=89e79558-a5ff-4f54-b25c-ff633090238f&Expires=1727395200&Signature=ND4iztQ~WqgLw4XaC3s3-r17BLPKM0L6Vb82OJLL4kmIxNK6ObreukQDCs6ny1FFEcZe7dsm0x1UilvFbTt4HHWFpcDsamUNlTjzWbGBg68D5C9jlB87y4DQ7QGu2GA0cdCphr~JcFBiFE5AHHIgRoQ-P2SZeu9myOTqRgdKhFIVhjwu89rWJG9lL7sgpy~IIzEwLDcYLjOExdwSijXFajm3Jwi-umVgJbkO3JhGrwMXmYWh9qwe9j0D~Ne0YtRzAPa4MZfrbxxI9kSLmvutKi22ldp9g70NiGsERsUNlRpKOkdGmuGNhlTlF4lchlRLXtD84WmRs14LCDlYC0GX7w__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 1080
+    },
+    {
+      "url": "https://assets.frame.io/encode/89e79558-a5ff-4f54-b25c-ff633090238f/h264_720.mp4?x-amz-meta-project_id=2878cef9-ecc9-44f4-a94a-178d92394035&x-amz-meta-request_id=F_inBAv1XZuoiWMESEsG&x-amz-meta-project_id=2878cef9-ecc9-44f4-a94a-178d92394035&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=89e79558-a5ff-4f54-b25c-ff633090238f&Expires=1727395200&Signature=jIhuMk~cgGH14PK7IAFtmZlnSB7s7Lxj4Gl3~RNmOmeg9ul8TW6OI3vO4boWrfRepToAO91rEvdp~i7AyDgaDP34jm3L0RcWqdeGSmvou6g0SRvqMO0cFylBpCR5ZacrdrzFvRI0TAG4HctPcE-TxpgVUfuIQOUblzXKJAAMkBIDrM-0BE-73iEWwrPNipYC7nbDCbXmpFijtKkzSVki2FbGoraK51m-dsif--7sDpnldGo918fjQakrCDHiDe0gSzHO3iaA1I~80HXzJd5EhmoJ4riMpxLc79wFEOIYgDQNNrwwdfyXTqQOBYwqQxU3abSJ7vcSXT5cXic2iP31Og__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 720
+    },
+    {
+      "url": "https://assets.frame.io/encode/89e79558-a5ff-4f54-b25c-ff633090238f/h264_540.mp4?x-amz-meta-project_id=2878cef9-ecc9-44f4-a94a-178d92394035&x-amz-meta-request_id=F_inBAv1XZuoiWMESEsG&x-amz-meta-project_id=2878cef9-ecc9-44f4-a94a-178d92394035&x-amz-meta-resource_type=asset&x-amz-meta-resource_id=89e79558-a5ff-4f54-b25c-ff633090238f&Expires=1727395200&Signature=Ta1ryfXpDzB0-XR3HIgl6MfUMGBVfPj3r0hgrtj9w8Xv-BnfnE~K7i3nrYaquD9VcGA1swyuG4R5YZZYK0A3f3WgFGhoUORIKCiUfaOkrcgBYLYr~6vgA1kKpZNr4txeCaDiW2Vj~EIY5bj8ECoE6NcGjyD305ztB9ViC29krrRy3EY0Jx2ehyT7hhtJEEw3jpfXvklphRAOz-XceIGEfjjkLAuhY6MBKymusxtphAUro7~FB0ek4hBlkijh336X6XfMSTwdYdKAj-vuVMVlStogW0eXitFdW3d-sUUvlT37K7i~DU5JzBLXmQKZBbX7t~kw2JsxPLs7XMD2NdZnSA__&Key-Pair-Id=K1XW5DOJMY1ET9",
+      "contentType": "video/mp4",
+      "quality": 540
+    }
+  ],
+  "textTracks": []
+}
